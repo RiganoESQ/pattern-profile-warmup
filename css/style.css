@@ -11,10 +11,21 @@ body {
   background-color: #019cdc
 }
 
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: greenyellow
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #f528f5
+}
+
 .profile-link {
-  color: #019cdc;
+  color: greenyellow;
   font-size: 12px;
   display: block;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 .link-heading {
@@ -24,11 +35,11 @@ body {
 
 a:hover,
 a:visited:hover {
-  color: #7ac043;
+  color: #a5c043;
 }
 
 a:visited {
-  color: #f58428;
+  color: #28aaf5;
 }
 
 .outer {
@@ -125,15 +136,15 @@ a:visited {
 }
 
 .square-one .inner {
-  background: #f58428;
+  background: #f528f5;
 }
 
 .square-two .inner {
-  background: #7ac043;
+  background: #c0434d;
 }
 
 .square-three .inner {
-  background: #019cdc;
+  background: #01dc6f;
 }
 
 .details {
