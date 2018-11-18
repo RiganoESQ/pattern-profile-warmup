@@ -2,11 +2,13 @@ html,
 body {
   margin: 0;
   padding: 0;
+  color: red;
 }
 
 body {
   background: #000;
   position: relative;
+  background-color: #019cdc
 }
 
 .profile-link {
